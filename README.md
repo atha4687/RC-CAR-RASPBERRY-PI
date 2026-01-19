@@ -53,6 +53,13 @@ The project is designed with modularity in mind, enabling future expansion into 
 
 ---
 
+DEMO VIDS
+https://www.youtube.com/shorts/wvcTN9s7A-8
+
+
+
+
+
 ## 📂 Project Structure
 
 ```bash
@@ -64,3 +71,6 @@ RC-CAR-RASPBERRY-PI/
 ├── camera.py       # (Optional) camera streaming
 ├── requirements.txt
 └── README.md
+
+
+
