@@ -54,7 +54,11 @@ The project is designed with modularity in mind, enabling future expansion into 
 ---
 
 DEMO VIDS
+
 https://www.youtube.com/shorts/wvcTN9s7A-8
+RC CAR MOVEMENT
+https://youtube.com/shorts/ZTLsMX7iXtQ?feature=share
+
 
 
 
